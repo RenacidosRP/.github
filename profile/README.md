@@ -1,1 +1,1 @@
-<p align="middle"> <img src="../profile/banner.jpg"> </p>
+<p align="middle"> <img src="https://github.com/RenacidosRP/.github/blob/main/profile/banner.jpg?raw=true"> </p>
