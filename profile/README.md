@@ -1,1 +1,1 @@
-<p align="middle"> <img src="./banner.jpg"> </p>
+<p align="middle"> <img src="../profile/banner.jpg"> </p>
